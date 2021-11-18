@@ -1,7 +1,8 @@
 # portfolio
 Личные проекты:
 
-https://ialiev685.github.io/goit-markup-hw-08/
+https://ialiev685.github.io/goit-markup-hw-08/ 
+Сайт веб-студии. Использовал HTML, SASS, JS.
 
 https://ialiev685.github.io/page_ice-cream/
 
