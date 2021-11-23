@@ -10,7 +10,8 @@ https://filmoteka-ia.netlify.app/ Приложения для поиска фи�
 https://phonebook-register-ia.netlify.app/ Приложения для сохранения контактов, с возможностью фильтра, редактирования и
 удаления. Использовал React, Bootstrap, npm-packages, REST API, Redux, SASS.  Исх. код https://github.com/ialiev685/goit-react-hw-08-phonebook
 
-https://chat-ialiev.herokuapp.com/ Приложение чата. Ипользовал React, Node.js, WebSocket, Express, Scss.  Исх. код https://github.com/ialiev685/chat,                                                  https://github.com/ialiev685/chat-websocket(React, без сборки)
+https://chat-ialiev.herokuapp.com/ Приложение чата. Ипользовал React, Node.js, WebSocket, Express, Scss.  
+Исх. код https://github.com/ialiev685/chat, https://github.com/ialiev685/chat-websocket(React, без сборки)
 
 Командные проекты:
 
