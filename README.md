@@ -5,7 +5,7 @@ https://ialiev685.github.io/goit-markup-hw-08/ Сайт веб-студии. И�
 
 https://ialiev685.github.io/page_ice-cream/ Сайт компании Ice Cream. Использовал HTML, SASS, JS, Jquery, Webpack. Исх. код https://github.com/ialiev685/page_ice-cream
 
-https://filmoteka-ia.netlify.app/ Приложения для поиска фильма. Использовал React, REST API, SASS, npm-packages.  Исх. код https://github.com/ialiev685/goit-react-hw-05-movies
+https://filmoteka-ia.netlify.app/ Приложения для поиска фильма. Использовал React, REST API, SASS, npm-packages.  Исх. код https://github.com/ialiev685/filmoteka-react
 
 https://phonebook-register-ia.netlify.app/ Приложения для сохранения контактов, с возможностью фильтра, редактирования и
 удаления. Использовал React, Bootstrap, npm-packages, REST API, Redux, SASS.  Исх. код https://github.com/ialiev685/goit-react-hw-08-phonebook
