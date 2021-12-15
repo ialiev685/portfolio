@@ -22,3 +22,4 @@ https://ialiev685.github.io/project-filmoteka/ Приложение для по�
 библиотеку. Использовали HTML5, SASS, JS, Parsel,REST API, npm-packages. Моя роль - тимлид.  Исх. код https://github.com/ialiev685/project-filmoteka
 
 https://wallet-rf1.netlify.app Приложение для контроля расходов и доходов финансов. Использовали HTML5, CSS3, React, React Router, Redux Toolkit, Node.js, Express, MongoDB, Mongoose и прочие библиотеки. Моя роль - тимлид.
+Исх. код  https://github.com/ialiev685/wallet-client, https://github.com/ialiev685/wallet-server/tree/dev
