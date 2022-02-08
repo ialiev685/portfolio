@@ -8,7 +8,7 @@ https://ialiev685.github.io/page_ice-cream/ Сайт компании Ice Cream.
 https://filmoteka-ia.netlify.app/ Приложения для поиска фильма. Использовал React, REST API, SASS, TypeScripts, React-Bootstrap, npm-packages.  Исх. код https://github.com/ialiev685/filmoteka-react
 
 https://phonebook-register-ia.netlify.app/ Приложения для сохранения контактов, с возможностью фильтра, редактирования и
-удаления. Использовал React, Bootstrap, npm-packages, REST API, Redux, SASS.  Исх. код https://github.com/ialiev685/goit-react-hw-08-phonebook
+удаления. Использовал React, Bootstrap, npm-packages, REST API, Redux, SASS.  Исх. код https://github.com/ialiev685/test-phonebook
 
 
 Командные проекты:
